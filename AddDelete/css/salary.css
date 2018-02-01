@@ -1,0 +1,76 @@
+div{
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 210px;
+    width: 1350px;
+    
+}
+input{
+    width: 300px;
+    height: 25px;
+    border: 2px dark black;
+    border-radius: 5px;
+    font-size: 20px;
+    text-align: center;
+}
+
+td>label{
+    font-size: 25px;
+    text-align: right;
+    margin-left: 40px;
+}
+button{
+    width: 150px;
+    height: 30px;
+    background-color: darkgreen;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px
+}
+h2{
+    font-size: 35px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#record td{
+    border: 2px solid black;
+    
+    
+}
+
+#addbtn{
+    margin-left: 50px;
+}
+#salapp{
+    margin-top: 10px;
+}
+#record{
+    width:1350px;
+    border: 2px solid black;
+    border-collapse: collapse;
+    
+}
+
+ #record>thead{
+    border: 3px solid black;
+    height: 40px;
+    text-align: center;
+    font-size: 35px;
+     background-color: cyan;
+}
+
+ #record>tbody{
+    border: 2px solid black;
+    height: 30px;
+    text-align: center;
+    font-size: 30px;
+}
+#del{
+    background-color:red;
+    color: black;
+}
+#edit{
+    background-color: yellow;
+    color: black;
+}
